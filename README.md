@@ -2,7 +2,7 @@
 # java 8 para termux esto solo funciona en pocos Androids
 # Instalacion en termux
 # git clone https://github.com/Cessr-Hack-Gray/java-8
-# mv $HOME/java-8 $HOME/java
+
 # bash $HOME/java/setup
 # y listo :3
 ![59394093-a9a10600-8d3b-11e9-8ced-071a323edadb](https://user-images.githubusercontent.com/46208706/59619384-a2854980-90e7-11e9-9735-a42a1184b2e2.png)
